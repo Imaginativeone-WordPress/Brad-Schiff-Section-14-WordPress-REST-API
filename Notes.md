@@ -1,0 +1,8 @@
+- [ ] Section 14: WordPress REST API (AJAX) 2 / 7|1hr 29min
+	- [ ] 61. Quick Note About The Next Lesson 1min
+	- [ ] 62. Load WP Content with JS 18min
+	- [ ] 63. Generate HTML Based on JSON 20min
+	- [ ] 64. Conditional Logic Within Template Literal 18min
+	- [ ] 65. Quick Misc Edits 11min
+	- [ ] 66. Synchronous vs Asynchronous (Part 1) 12min
+	- [ ] 67. Synchronous vs Asynchronous (Part 2) 10min
